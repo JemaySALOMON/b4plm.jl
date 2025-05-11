@@ -1,0 +1,10 @@
+name = "b4plm"
+uuid = "e9863321-907d-454d-b8a6-a4cbf5dc2efd"
+authors = ["Jemay Salomon"]
+version = "1.0.0-DEV"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+[compat]
+julia = "1.8"
